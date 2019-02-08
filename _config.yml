@@ -34,22 +34,22 @@ assets: /assets
 url:
 baseurl:
 
-#### Language
+#### 语言
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 
-#### Menu
+#### 菜单
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
-## you can create `tags` and `categories` folders (I had created them already).
-## And create a `index.md` file in each of them.
-## set `front-matter`as
-## layout: tags (or categories)
-## title: tags (or categories)
+  主页: /
+  归档: /archives
+  关于: /about
+## 你可以创建`tags`和`categories`文件夹（我已经创建了它们）。
+## 并在每个文件中创建一个`index.md`文件。
+## 设置`front-matter`as
+## layout：标签（或类别）
+## title：标签（或类别）
 ## ---
 
-#### Widgets
+#### 控件
 widgets:
 - category
 - tag
@@ -64,32 +64,32 @@ widgets:
 #### RSS
 rss: /atom.xml ## RSS address.
 
-#### Image
+#### 图片相关
 imglogo:
-  enable: true             ## display image logo true/false.
-  src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
-favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.
-apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
-author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
-banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
+  enable: true              ## 是否显示网站 logo
+  src: img/logo.png         ## 建议使用.svg和.png请将图片放入主题文件夹 / jacman / source / img
+favicon: img/favicon.ico    ## 网站图标                          size：32px * 32px，推荐`.ico`，请将图片放入主题文件夹`/ jacman / source / img`。
+apple_icon: img/jacman.jpg  ## 苹果设备上的图标，背景不要透明      size：114px * 114px，请将图片放入主题文件夹`/ jacman / source / img`。
+author_img: img/author.jpg  ## 网站底部的博主头像                 size：220px * 220px.display作者头像picture.if不想显示，请不要设置此项。
+banner_img: #img/banner.jpg ## 博客顶部的图片                     size：1920px * 200px +。 横幅图片
 
-#### index post is expanding or not
+#### 首页相关
 index:
-  expand: true           ## default is unexpanding,so you can only see the short description of each post.
+  expand: true           ## 首页文章是否展开。默认为展开式，显示 Read More。
   excerpt_link: Read More
 
-close_aside: false  #close sidebar in post page if true
-mathjax: true      #enable mathjax if true
-share_to: true #enable share-to buttons if true
+close_aside: false  #是否在文章页面自动关闭侧边栏
+mathjax: true       #enable mathjax if true
+share_to: true      #如果为true，则启用共享按钮
 
-#### Author information
+#### 作者信息
 author:
-  name: yitao      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
-  weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
+  name: blacksmile      ## 输入作者姓名，谁使用这个博客
+  intro_line1:  "Hello ,I'm Larry Page in Google."    ## 您在页面底部的介绍
+  intro_line2:  "This is my blog,believe it or not."  ## 第二行
+  weibo_verifier:  ## 微博秀的验证码
+  tsina:      ## 用于微博秀和微博分享
+  weibo:      ## 用于显示网站底部社交按钮，下同
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email:      ## e.g. imjark@gmail.com
@@ -99,35 +99,35 @@ author:
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
-## if you set them, the corresponding  share button will show on the footer
+## 如果您设置它们，相应的共享按钮将显示在页脚上
 
-#### Toc
+#### 目录
 toc:
-  article: true   ## show contents in article.
-  aside: true     ## show contents in aside.
-## you can set both of the value to true of neither of them.
-## if you don't want display contents in a specified post,you can modify `front-matter` and add `toc: false`.
+  article: true   ## 是否在文章中显示目录
+  aside: true     ## 是否在侧边栏显示目录
+## 你可以将它们的值都设置为true。
+## 如果你不想在指定的帖子中显示内容，你可以修改`front-matter`并添加`toc：false`。
 
-#### Links
+#### 友情链接
 links:
-  码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  谷歌: https://www.google.com
+  百度: https://www.baidu.com
 
-#### Comment
+#### 评论
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
 disqus_shortname:     ## e.g. wuchong      your disqus short name.        website: http://disqus.com
 hypercomments_id:     ## e.g. 91510        your hypercomments widget id.  website: http://hypercomments.com
 yungentie_productkey: ## your netease yungentie product key.              website: https://gentie.163.com
-## set only one of them
-## duoshuo will be shutting down on June 1, 2017
+## 只设置其中一个
+## duoshuo将于2017年6月1日关闭
 
-#### Share button
+#### 分享按钮
 jiathis:
-  enable: false ## if you use jiathis as your share tool,the built-in share tool won't be display.
+  enable: false ## 默认使用主题内建分享 \ if you use jiathis as your share tool,the built-in share tool won't be display.
   id:    ## e.g. 1889330 your jiathis ID.
   tsina: ## e.g. 2176287895 Your weibo id,It will be used in share button.
 
-#### Analytics
+#### 网站统计
 google_analytics:
   enable: false
   id:        ## e.g. UA-46321946-2 your google analytics ID.
@@ -136,32 +136,32 @@ google_analytics:
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
   enable: false
-  sitecode:  ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
+  sitecode:  ## 百度统计站点特征码 \ e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
 cnzz_tongji:
   enable: false
-  siteid:    ## e.g. 1253575964 your cnzz tongji site id
+  siteid:    ## CNZZ统计站点ID \ e.g. 1253575964 your cnzz tongji site id
 
-#### Miscellaneous
+#### 杂项
 fancybox: true        ## if you use gallery post or want use fancybox please set the value to true.
 totop: true           ## if you want to scroll to top in every post set the value to true
 
-#### Custom Search
+#### 自定义搜索
 google_cse:
   enable: false
   cx: 018294693190868310296:abnhpuysycw  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
 ## https://www.google.com/cse/
-## To enable the custom search You must create a "search" folder in '/source' and a "index.md" file
-## set the 'front-matter' as
-## layout: search
-## title: search
+##启用自定义搜索您必须在“/source”和“index.md”文件中创建“search”文件夹
+##将'front-matter'设置为
+## layout：search
+## title：search
 ## ---
 baidu_search:     ## http://zn.baidu.com/
   enable: false
-  id:   ## e.g. "783281470518440642"  for your baidu search id
-  site: http://zhannei.baidu.com/cse/search  ## your can change to your site instead of the default site
+  id:   ## e.g. "783281470518440642"为您的百度搜索ID
+  site: http://zhannei.baidu.com/cse/search  ## 您可以更改为您的网站而不是默认网站
 tinysou_search:     ## http://tinysou.com/
   enable: false
-  id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
+  id:  ## e.g. "4ac092ad8d749fdc6293"为您的小搜索ID
 simple_jekyll_search:
   enable: true
   fulltext: false
