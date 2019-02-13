@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : 我的博客
+tagline: ## A fresh looking and responsive theme for Jekyll
 assets: /assets
 url:
 baseurl:
@@ -62,7 +62,7 @@ widgets:
 
 
 #### RSS
-rss: /atom.xml ## RSS address.
+# rss: /atom.xml ## RSS address.
 
 #### 图片相关
 imglogo:
@@ -71,7 +71,7 @@ imglogo:
 favicon: img/favicon.ico    ## 网站图标                          size：32px * 32px，推荐`.ico`，请将图片放入主题文件夹`/ jacman / source / img`。
 apple_icon: img/jacman.jpg  ## 苹果设备上的图标，背景不要透明      size：114px * 114px，请将图片放入主题文件夹`/ jacman / source / img`。
 author_img: img/author.jpg  ## 网站底部的博主头像                 size：220px * 220px.display作者头像picture.if不想显示，请不要设置此项。
-banner_img: #img/banner.jpg ## 博客顶部的图片                     size：1920px * 200px +。 横幅图片
+banner_img: img/banner.jpg ## 博客顶部的图片                     size：1920px * 200px +。 横幅图片
 
 #### 首页相关
 index:
@@ -85,8 +85,8 @@ share_to: true      #如果为true，则启用共享按钮
 #### 作者信息
 author:
   name: blacksmile      ## 输入作者姓名，谁使用这个博客
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## 您在页面底部的介绍
-  intro_line2:  "This is my blog,believe it or not."  ## 第二行
+  intro_line1:  "没有伞的孩子要努力奔跑。"    ## 您在页面底部的介绍
+  # intro_line2:  "This is my blog,believe it or not."  ## 第二行
   weibo_verifier:  ## 微博秀的验证码
   tsina:      ## 用于微博秀和微博分享
   weibo:      ## 用于显示网站底部社交按钮，下同
@@ -109,9 +109,9 @@ toc:
 ## 如果你不想在指定的帖子中显示内容，你可以修改`front-matter`并添加`toc：false`。
 
 #### 友情链接
-links:
-  谷歌: https://www.google.com
-  百度: https://www.baidu.com
+# links:
+#   谷歌: https://www.google.com
+#   百度: https://www.baidu.com
 
 #### 评论
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
