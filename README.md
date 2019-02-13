@@ -72,7 +72,3 @@ bundle exec jekyll server
  图片查看的 [Fancybox](http://fancyapps.com/fancybox/) 工具。
 - **其他**
  你可以设置侧边栏在博文页面中不显示。
-
-## 协议
-
-[MIT](/LICENSE)
