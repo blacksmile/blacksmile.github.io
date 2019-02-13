@@ -41,6 +41,7 @@ language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 menu:
   主页: /
   归档: /archives
+  写博客: /word
   关于: /about
 ## 你可以创建`tags`和`categories`文件夹（我已经创建了它们）。
 ## 并在每个文件中创建一个`index.md`文件。
@@ -71,7 +72,7 @@ imglogo:
 favicon: img/favicon.ico    ## 网站图标                          size：32px * 32px，推荐`.ico`，请将图片放入主题文件夹`/ jacman / source / img`。
 apple_icon: img/jacman.jpg  ## 苹果设备上的图标，背景不要透明      size：114px * 114px，请将图片放入主题文件夹`/ jacman / source / img`。
 author_img: img/author.jpg  ## 网站底部的博主头像                 size：220px * 220px.display作者头像picture.if不想显示，请不要设置此项。
-banner_img: img/banner.jpg ## 博客顶部的图片                     size：1920px * 200px +。 横幅图片
+banner_img: ##img/banner.jpg ## 博客顶部的图片                     size：1920px * 200px +。 横幅图片
 
 #### 首页相关
 index:
