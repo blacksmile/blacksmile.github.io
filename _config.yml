@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : 我的博客
+title : BlackSmile的博客
 tagline: ## A fresh looking and responsive theme for Jekyll
 assets: /assets
 url:
@@ -42,6 +42,7 @@ menu:
   主页: /
   归档: /archives
   写博客: /word
+  相册:
   关于: /about
 ## 你可以创建`tags`和`categories`文件夹（我已经创建了它们）。
 ## 并在每个文件中创建一个`index.md`文件。
@@ -85,8 +86,8 @@ share_to: true      #如果为true，则启用共享按钮
 
 #### 作者信息
 author:
-  name: blacksmile      ## 输入作者姓名，谁使用这个博客
-  intro_line1:  "没有伞的孩子要努力奔跑。"    ## 您在页面底部的介绍
+  name: BlackSmile      ## 输入作者姓名，谁使用这个博客
+  intro_line1:  "离开一个地方，风景就不再属于你；错过一个人，那人便再与你无关。"    ## 您在页面底部的介绍
   # intro_line2:  "This is my blog,believe it or not."  ## 第二行
   weibo_verifier:  ## 微博秀的验证码
   tsina:      ## 用于微博秀和微博分享
