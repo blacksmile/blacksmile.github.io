@@ -2,7 +2,7 @@
 layout: post
 title: "【System】XP和XP的远程桌面连接"
 date: 2013-4-3 21:47
-categories: 办公软件应用
+categories: 【办公软件应用】
 tags:
 - 远程桌面
 - XP系统
