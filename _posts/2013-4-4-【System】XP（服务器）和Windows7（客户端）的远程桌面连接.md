@@ -2,7 +2,7 @@
 layout: post
 title: "【System】XP（服务器）和Windows7（客户端）的远程桌面连接"
 date: 2013-4-4 15:18
-categories: 【办公软件应用】
+categories: 【System】
 tags:
 - XP系统
 - Win 7系统
@@ -12,6 +12,7 @@ XP（服务器）和Windows7（客户端）的远程桌面连接：
 1. 设置服务器和客服端的IP：  
 ![图片](http://a1.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/b3IGWtrRBEU9mSPuo4PBl6ClesfMmV0WyO1Pg55YsHg!/b/dKjixr5*MQAA&ek=1&kp=1&pt=0&bo=KwKeAQAAAAABAJE!&t=5&tl=3&su=0124164129&tm=1551704400&sce=0-12-12&rf=2-9)  
 ![图片](http://a2.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/mE1qAChHnpgygUlhompmPu0A.TNOG40dhZcQar1k9S0!/b/dNXIu8EFEAAA&ek=1&kp=1&pt=0&bo=KgKgAQAAAAABAK4!&t=5&tl=3&su=015050417&tm=1551704400&sce=0-12-12&rf=2-9)  
+<!-- more -->
 设置完IP后，互相Ping下  
 ![图片](http://a2.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/3QtbrkPkG3U.kty31JYTDblZ7KVxZmldZ5M.QqJfuXA!/b/dKFpXL9KMAAA&ek=1&kp=1&pt=0&bo=IANYAgAAAAABAF4!&t=5&tl=3&su=0182224193&tm=1551704400&sce=0-12-12&rf=2-9)  
 ![图片](http://a1.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/pTTayfeKyEHU7ngU69ueeo0pciT3CuxNgPMykPKuHYM!/b/dETjw77TMQAA&ek=1&kp=1&pt=0&bo=IANYAgAAAAABAF4!&t=5&tl=3&su=0219914929&tm=1551704400&sce=0-12-12&rf=2-9)  

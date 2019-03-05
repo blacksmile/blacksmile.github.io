@@ -2,7 +2,7 @@
 layout: post
 title: "【System】XP和XP的远程桌面连接"
 date: 2013-4-3 21:47
-categories: 【办公软件应用】
+categories: 【System】
 tags:
 - 远程桌面
 - XP系统
@@ -11,6 +11,7 @@ XP和XP的远程桌面连接：
 1. 设置服务器和客服端的IP：  
 ![图片](http://a2.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/hKgwc.tjn*Qkq0VrW3B00imLkO8UOI252wdMJaYU2Gw!/b/dGZUxsHXDwAA&ek=1&kp=1&pt=0&bo=LAKdAQAAAAABAJU!&t=5&tl=3&su=014465905&tm=1551704400&sce=0-12-12&rf=2-9)  
 ![图片](http://a3.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ZKsIRGTnO7yapxHuxDmCPmF5LueOa.eVOf0zNivjpvc!/b/dL1*87*VHQAA&ek=1&kp=1&pt=0&bo=KwKhAQAAAAABAK4!&t=5&tl=3&su=0236783201&tm=1551704400&sce=0-12-12&rf=2-9)  
+<!-- more -->
 设置完IP后，互相Ping下  
 ![图片](http://a4.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ymHaCige0IdNtsTjnbZgjnIdyQ8HhMG3rfF9zALK99s!/b/dK8Sj8CrHgAA&ek=1&kp=1&pt=0&bo=KwKgAQAAAAABAK8!&t=5&tl=3&su=0105577233&tm=1551704400&sce=0-12-12&rf=2-9)  
 ![图片](http://a2.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/iUOfa0TxWpj1e.mQgKAupblD1lMAW*6a7nt9quPihuk!/b/dNXcWr.MMQAA&ek=1&kp=1&pt=0&bo=KQKiAQAAAAABAK8!&t=5&tl=3&su=0236251425&tm=1551704400&sce=0-12-12&rf=2-9)  
