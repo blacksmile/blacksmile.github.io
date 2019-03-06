@@ -4,7 +4,8 @@ title: "【Software】高清视频录制工具(Bandicam)1.9.0.396 汉化破解�
 date: 2013-9-13 14:09
 categories: 【Software】
 tags:
-- PPT
+- 高清视频录制工具
+- Bandicam
 ---
 
 下载地址：<http://www.pc6.com/softview/SoftView_60598.html>  
