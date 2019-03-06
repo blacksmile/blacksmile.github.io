@@ -10,7 +10,7 @@ tags:
 **很多网友都有了可启动的U盘吧，不过，还是很多网友不知道如何设置虚拟机，才能让虚拟机支持U盘启动，下面讲解一下如何设置虚拟机从U盘启动。**  
 **温馨提示：应首先插上U盘，然后启动vmware虚拟机，否则设置时会找不到U盘。**  
  **U盘启动盘常用启动方式有USB-ZIP、 USB-HDD 、USB-CDROM几种，根据不同启动方式有不同设置。我这里演示两种方法给大家参考**  
-**![](http://a1.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/zXhphH5kPKdbhznUdi3z.ri6IUTEUBWdeAAniyRxeCY!/b/dLB2iMOOFQAA&ek=1&kp=1&pt=0&bo=WAL0AQAAAAABAIg!&t=5&tl=3&su=0221206593&tm=1551790800&sce=0-12-12&rf=2-9)**  
+![](http://a1.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/zXhphH5kPKdbhznUdi3z.ri6IUTEUBWdeAAniyRxeCY!/b/dLB2iMOOFQAA&ek=1&kp=1&pt=0&bo=WAL0AQAAAAABAIg!&t=5&tl=3&su=0221206593&tm=1551790800&sce=0-12-12&rf=2-9)  
 
 <!-- more -->
 
