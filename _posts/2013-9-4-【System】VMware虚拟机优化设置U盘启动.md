@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "【System】vmware虚拟机设置U盘启动"
+title: "【System】VMware虚拟机优化设置U盘启动"
 date: 2013-9-4 16:41
 categories: 【System】
 tags:
-- vmware虚拟机
+- VMware虚拟机优化
 ---
 
 **很多网友都有了可启动的U盘吧，不过，还是很多网友不知道如何设置虚拟机，才能让虚拟机支持U盘启动，下面讲解一下如何设置虚拟机从U盘启动。**  

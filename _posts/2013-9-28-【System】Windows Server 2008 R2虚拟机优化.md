@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "【System】虚拟机优化"
+title: "【System】Windows Server 2008 R2虚拟机优化"
 date: 2013-9-28 21:21
 categories: 【System】
 tags:
-- vmware虚拟机优化
+- VMware虚拟机优化
+- Windows Server 2008 R2
 ---
 Windows Server 2008 R2是微软最新的服务器版操作系统,与Windows 7相同的使用了最新的NT6.1内核
 Server系统有着更为出色的内存管理等方面的性能,而且对于开发平台的支持也比client系统更加优秀,下面就讲述一下打造个性化的Windows Server 系统,让它适合桌面用户使用.  
