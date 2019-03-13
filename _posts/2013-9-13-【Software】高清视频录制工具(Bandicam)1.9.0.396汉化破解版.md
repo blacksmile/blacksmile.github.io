@@ -15,8 +15,6 @@ tags:
 Bandicam 一款由韩国开发的高清录制视频的工具，Bandicam 的优势在于对电脑配置要求低，一些配置比较低端的电脑，通常录制视频会出现不同步现象，使用 Bandicam 就可以避免此问题。Bandicam录制的视频体积小，而且画面清晰，可以录制分辨率高达2560×1600高画质视频（1080p全高清视频可以做的），录制的时候可添加自己的LOGO到视频中，支持bmp、 png与jpeg 格式截图。  
 ![](http://a3.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/9M9Nr1XBSMkHRzrltZWTd4O9u1q6wg24Gav5S7LEJfo!/b/dFzHucSBAQAA&ek=1&kp=1&pt=0&bo=kQFNAQAAAAABAPs!&t=5&tl=3&su=0155235489&tm=1551870000&sce=0-12-12&rf=2-9)  
 
-<!-- more -->
-
 **使用方法**  
 一、可以选择游戏窗口或指定区域进行视频录制  
 　　1、 全屏录制：能录制全屏游戏和窗口游戏。  
