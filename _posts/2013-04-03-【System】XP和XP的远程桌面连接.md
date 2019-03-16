@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【System】XP和XP的远程桌面连接"
-date: 2013-4-3 21:47
+date: 2013-04-03 21:47
 categories: 【System】
 tags:
 - 远程桌面

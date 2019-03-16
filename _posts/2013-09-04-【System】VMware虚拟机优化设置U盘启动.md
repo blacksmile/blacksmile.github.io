@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【System】VMware虚拟机设置U盘启动"
-date: 2013-9-4 16:41
+date: 2013-09-04 16:41
 categories: 【System】
 tags:
 - VMware虚拟机

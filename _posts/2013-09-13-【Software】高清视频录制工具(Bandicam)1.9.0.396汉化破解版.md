@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【Software】高清视频录制工具(Bandicam)1.9.0.396 汉化破解版"
-date: 2013-9-13 14:09
+date: 2013-09-13 14:09
 categories: 【Software】
 tags:
 - 高清视频录制工具

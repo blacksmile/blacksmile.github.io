@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【System】Windows Server 2008 R2虚拟机优化"
-date: 2013-9-28 21:21
+date: 2013-09-28 21:21
 categories: 【System】
 tags:
 - VMware虚拟机优化

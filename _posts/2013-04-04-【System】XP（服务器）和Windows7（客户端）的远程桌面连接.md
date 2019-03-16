@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【System】XP（服务器）和Windows7（客户端）的远程桌面连接"
-date: 2013-4-4 15:18
+date: 2013-04-04 15:18
 categories: 【System】
 tags:
 - XP系统
