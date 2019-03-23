@@ -44,7 +44,7 @@ furst push
 ![](https://qqadapt.qpic.cn/txdocpic/0/56b3566db2123c1b8b305022ee3fe29c/0?_type=png)  
 然后就可以通过GitHub提供的这个网址访问自己的博客了  
 ![](https://qqadapt.qpic.cn/txdocpic/0/6965e36b15d0dc2d60322430b6e9db41/0?_type=png)  
-![](https://qqadapt.qpic.cn/txdocpic/0/8582de71eaa96c50b9c15e5c7e5c6c88/0?_type=png)
+![](https://qqadapt.qpic.cn/txdocpic/0/8582de71eaa96c50b9c15e5c7e5c6c88/0?_type=png)  
 
 
 
@@ -53,4 +53,4 @@ furst push
 第二步:按照之前的步骤把下载好的模板上传到自己的Github仓库中  
 第三步:在_posts文件夹中放入自己写好的博客,文件名必须是日期-标题名,例如:2019-01-01-我的第一篇博客  
 第四步:上传博客到Github中即可访问自己的博客  
-![](https://qqadapt.qpic.cn/txdocpic/0/3b49a3c19deb62a8a60c5e70f7e7703f/0?_type=png)  
+![](https://qqadapt.qpic.cn/txdocpic/0/3b49a3c19deb62a8a60c5e70f7e7703f/0?_type=png)
