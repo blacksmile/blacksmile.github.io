@@ -7,7 +7,7 @@ tags:
 - 谷歌插件与油猴脚本
 ---
 1.下载 Tampermonkey_v4.2.7.crx 插件  
-http://www.52cik.com/github-hans/Tampermonkey_v4.2.7.crx  
+<http://www.52cik.com/github-hans/Tampermonkey_v4.2.7.crx>  
 2.在 chrome 里打开 chrome://extensions/ 这里地址(浏览器需登录，页面打开开发者模式开关)  
 ![](https://qqadapt.qpic.cn/txdocpic/0/2f39a945aa9da90320bbfb3f0762e39f/0?_type=png)  
 3.把刚才下载到的 Tampermonkey_v4.2.7.crx 拖进去就好了  
