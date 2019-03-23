@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【Software】GitHub 汉化插件安装&谷歌插件"
-date: 2019‎-02‎-24‎ ‏‎21:49:10
+date: 2019-02-24 21:49
 categories: 【Software】
 tags:
 - 谷歌插件与油猴脚本
