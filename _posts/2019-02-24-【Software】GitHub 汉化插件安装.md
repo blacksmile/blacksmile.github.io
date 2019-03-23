@@ -13,7 +13,7 @@ tags:
 3.把刚才下载到的 Tampermonkey_v4.2.7.crx 拖进去就好了  
 4.接着点浏览器右上角的插件图标，选择 “添加新脚本...”  
 ![](https://qqadapt.qpic.cn/txdocpic/0/a7ca4208cbaa27cd7c16558179d822a8/0?_type=png)  
-5.然后将 https://github.com/52cik/github-hans/blob/gh-pages/main.js 源码全选复制进去覆盖掉保存刷新下网页完成(源码有两处错误)  
+5.然后将<https://github.com/52cik/github-hans/blob/gh-pages/main.js>源码全选复制进去覆盖掉保存刷新下网页完成(源码有两处错误)  
 ![](https://qqadapt.qpic.cn/txdocpic/0/d080a3893ae70770a55ec8fd5be866ed/0?_type=png)  
 在箭头e的后面添加上;（英文状态下输入）  
 ![](https://qqadapt.qpic.cn/txdocpic/0/bf0656b98a569eb3a1ceeda1a786bb9d/0?_type=png)  
