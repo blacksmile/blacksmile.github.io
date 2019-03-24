@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "【Software】使用Github搭建个人博客"
+title: "【Software】搭建个人博客"
 date: 2019-02-24 21:57
 categories: 【Software】
 tags:
-- Github搭建个人博客
+- 搭建个人博客
 ---
 **博客模版下载地址**  
 <http://jekyllthemes.org/>  
