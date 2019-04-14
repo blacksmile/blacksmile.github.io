@@ -7,7 +7,7 @@ tags:
 - Sublime Text
 ---
 
-## 一、在Sublime Text 3中搭建C语言开发环境  
+### 一、在Sublime Text 3中搭建C语言开发环境  
 Sublime Text 3的高亮显示代码，非常好用，界面也非常漂亮，Sublime Text 3工具栏有编译项，所以想让它来编译C和C++代码。  
 我们用到的C/C++编译器使用的是gcc/g++，所以需要下载安装MinGW。  
 1.下载地址  
@@ -42,7 +42,7 @@ Ctrl+Shift+B运行，怎么样是不是很神奇。
 现在再来试试，Ctrl+B编译  
 ![](http://a4.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/HZ6TUYTRcn61uhm5K6mHef1reMJD2x1pGKuTv71QIoY!/b/dFcBAAAAAAAA&ek=1&kp=1&pt=0&bo=KAMEAgAAAAADAAg!&tl=1&su=0145959505&tm=1555232400&sce=0-12-12&rf=2-9)  
 如上图说明成功了  
-## 二、在Sublime Text 3中搭建Java开发环境  
+### 二、在Sublime Text 3中搭建Java开发环境  
 Sublime Text 3的高亮显示代码，非常好用，界面也非常漂亮，Sublime Text 3工具栏有编译项，所以想让它来编译和运行Java代码  
 1.设置Java的PATH环境变量（自行百度）  
 2.创建批处理或Bash Shell脚本文件  
