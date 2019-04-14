@@ -78,7 +78,7 @@ Sublime Text 3的高亮显示代码，非常好用，界面也非常漂亮，Sub
 ![](http://a3.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/nu6BsDDrHrRqf4xfNG4MTQZR1FC9mGsRmXwasWhtP3o!/b/dFoBAAAAAAAA&ek=1&kp=1&pt=0&bo=7wLxAQAAAAADADg!&tl=1&su=040995025&tm=1555232400&sce=0-12-12&rf=2-9)  
 修改好了保存一下  
 ​下面写一个java程序测试一下（Ctrl+B编译运行）出现以下结果说明成功了  
-![](http://a3.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/*W8eADA7bqbt*VCICgK*eFa*iSXhHnNFZNttVXxIFSQ!/b/dFoBAAAAAAAA&ek=1&kp=1&pt=0&bo=KAMEAgAAAAADAAg!&tl=1&su=0145950097&tm=1555232400&sce=0-12-12&rf=2-9) 
+![](http://a3.qpic.cn/psb?/57f6398e-db93-428d-8871-6d2527ad188f/*W8eADA7bqbt*VCICgK*eFa*iSXhHnNFZNttVXxIFSQ!/b/dFoBAAAAAAAA&ek=1&kp=1&pt=0&bo=KAMEAgAAAAADAAg!&tl=1&su=0145950097&tm=1555232400&sce=0-12-12&rf=2-9)  
 直接将控制台输出结果显示在Sublime Text 3中  
 
 如果不想每次编译文件后，还需要切换窗口点击运行编译生成的exe来查看结果的话。还可以在简单的配置一下，直接将控制台输出的结果显示在ST中，也不需要切换窗口，只需要在调用Ctrl+B编译后再键入Ctrl+Shift+B运行即可。将Sublime Text的Packages目录下的Packages\C++\C++.sublime-build文件修改为：  
