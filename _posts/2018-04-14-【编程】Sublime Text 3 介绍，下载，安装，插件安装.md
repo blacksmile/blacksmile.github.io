@@ -423,15 +423,15 @@ Alt+Shift+5 Grid      四格式分屏
       Ctrl + W               关闭当前标签，当窗口内没有标签时会关闭该窗口  
       Ctrl + Shift + T       恢复刚刚关闭的标签  
 7、屏幕  
-      F11&nbsp&nbsp&nbsp&nbsp切换至普通全屏  
-      Shift + F111&nbsp&nbsp&nbsp&nbsp切换至无干扰全屏  
-      Alt+Shift+11&nbsp&nbsp&nbsp&nbsp切换至独屏  
-      Alt+Shift+21&nbsp&nbsp&nbsp&nbsp切换至纵向二栏分屏  
-      Alt+Shift+31&nbsp&nbsp&nbsp&nbsp切换至纵向三栏分屏  
-      Alt+Shift+41&nbsp&nbsp&nbsp&nbsp切换至纵向四栏分屏  
-      Alt+Shift+81&nbsp&nbsp&nbsp&nbsp切换至横向二栏分屏  
-      Alt+Shift+91&nbsp&nbsp&nbsp&nbsp切换至横向三栏分屏  
-      Alt+Shift+51&nbsp&nbsp&nbsp&nbsp切换至四格式分屏  
+      F11                    切换至普通全屏  
+      Shift + F11            切换至无干扰全屏  
+      Alt+Shift+1            切换至独屏  
+      Alt+Shift+2            切换至纵向二栏分屏  
+      Alt+Shift+3            切换至纵向三栏分屏  
+      Alt+Shift+4            切换至纵向四栏分屏  
+      Alt+Shift+8            切换至横向二栏分屏  
+      Alt+Shift+9            切换至横向三栏分屏  
+      Alt+Shift+5            切换至四格式分屏  
 
 ### 九、Sublime text3 更新关闭（需要访问官网时再删除一下内容）  
 
