@@ -153,9 +153,8 @@ c 安装方法二：
 
 13、ColorHighlighter插件  
 功能说明：显示所选颜色值的颜色，并集成了ColorPicker  
-插件地址：h[ttps://github.com/Monnoroch/ColorHighlighter  
+插件地址：<https://github.com/Monnoroch/ColorHighlighter>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/bjFOtp3bRGQ0dBIUy8zogE29IFjqYsIhsx7DNpRUh2A!/o/dMAAAAAAAAAA&ek=1&kp=1&pt=0&bo=sAJ5AbACeQEDIAU!&tl=1&su=087350529&tm=1555254000&sce=0-12-12&rf=2-9)  
-](https://github.com/Monnoroch/ColorHighlighter)  
 在16进制的颜色值上点右键，选择“Choose color”,会弹性颜色拾色器，在需要的色块上单击。  
 
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/sDY2PYFryxm4hWdoqdF2dRDHq8f9gREJh6fQafX1Bv8!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=jQMsA40DLAMDQGU!&tl=1&su=0129862065&tm=1555254000&sce=0-12-12&rf=2-9)  
@@ -178,12 +177,12 @@ c 安装方法二：
 功能说明：快速生成文件模板。  
 使用方法：SublimeTmpl默认的快捷键如下，如果快捷键设置冲突可能无效。  
 
-Ctrl+Alt+h           新建 html 文件  
-Ctrl+Alt+j           新建 javascript 文件  
-Ctrl+Alt+c           新建 css 文件  
-Ctrl+Alt+p           新建 php 文件  
-Ctrl+Alt+r           新建 ruby 文件  
-Ctrl+Alt+Shift+p     新建 python  
+Ctrl+Alt+h　　　　　　新建 html 文件  
+Ctrl+Alt+j　　　　　　新建 javascript 文件  
+Ctrl+Alt+c　　　　　　新建 css 文件  
+Ctrl+Alt+p　　　　　　新建 php 文件  
+Ctrl+Alt+r　　　　　　新建 ruby 文件  
+Ctrl+Alt+Shift+p　　　新建 python  
 文件插件地址：<https://github.com/kairyou/SublimeTmpl>  
 下图为按快捷键 Ctrl+Alt+h 新建的一个 html 文件。 
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ALOTaynO.DFB*TPVvQpifbBXxzCukA.9wRV6.uhonXI!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=dQP*AXUD*wEDIAU!&tl=1&su=0150051969&tm=1555254000&sce=0-12-12&rf=2-9)  
