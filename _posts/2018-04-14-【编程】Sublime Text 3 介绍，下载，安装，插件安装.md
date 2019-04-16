@@ -205,7 +205,6 @@ Ctrl+Alt+Shift+p　　　新建 python
 功能说明：自动补全文件(目录)名。  
 插件地址：<https://github.com/BoundInCode/AutoFileName>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/iC2.Uxo5oItr6tNDnQeLnaQ.cfTmeLnx6alSyE82*8c!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=0gKsANICrAADEDU!&tl=1&su=026038881&tm=1555254000&sce=0-12-12&rf=2-9)  
-<https://github.com/BoundInCode/AutoFileName>  
 安装好后就可以来测试如何使用AutoFileName，先以<link>css档案来示范，当输入href=””的同时，Sublime Text就会将现在编辑档案的路径为中心，判断该路径内的所有档案。  
 
 a 以这个档案为范本它会去抓取跟abc.html在同一层的档案列表。  
@@ -230,7 +229,6 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 插件地址：<https://github.com/spadgos/sublime-jsdocs>  
 
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/Etz2qXTU3sZORWXx7wrPTokMO2Sj0je9uD52MluwEWs!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=OAPJADgDyQADEDU!&tl=1&su=0195989937&tm=1555254000&sce=0-12-12&rf=2-9)  
-<https://github.com/BoundInCode/AutoFileName>  
 在函数上面输入/** ,然后按Tab 就会自动生成注释。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/mozFZvNhfRzBTZZlNG8189miSsM88BlNfX9phr1uRjY!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=QgMZAUIDGQEDIAU!&tl=1&su=0163126817&tm=1555254000&sce=0-12-12&rf=2-9)  
 
@@ -246,14 +244,23 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 使用方法一：View -> Show console 或者使用快捷键(Ctrl + \`)，在命令列的地方輸入:view.run_command("htmlprettify")，然后按下Enter。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/7kZe*VFXiDGHFFElkNdfjJtcZ3PRccaH1qWC.0KzCFU!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=7gJIAO4CSAADEDU!&tl=1&su=0112668561&tm=1555254000&sce=0-12-12&rf=2-9)  
 使用方法二：默认快捷键：Ctrl+Shift+H。  
-你也可以自行设置快捷键，菜单 “Preferences---> Key Bindings – User” 里新增：{ "keys": ["ctrl+shift+o"],    "command": "htmlprettify"}  完成后保存，以上代码设定执行此插件的快捷键是：Ctrl+Shfit+O，自己设定的话就要测试一下，不要跟其他快捷键冲突。  
+你也可以自行设置快捷键，菜单 “Preferences---> Key Bindings – User” 里新增：  
+
+```
+{
+	"keys": ["ctrl+shift+o"],
+	"command": "htmlprettify"
+}
+```
+
+完成后保存，以上代码设定执行此插件的快捷键是：Ctrl+Shfit+O，自己设定的话就要测试一下，不要跟其他快捷键冲突。  
 格式化前：  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/p6JOwjVXFZrKDyLBXPT*RoddlrvQ2aCOub8pWkpHkZ0!/o/dMEAAAAAAAAA&ek=1&kp=1&pt=0&bo=NwM9ATcDPQEDIAU!&tl=1&su=0148113697&tm=1555254000&sce=0-12-12&rf=2-9)  
  格式化后：  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/fqHhiRi6VyoYRFQqtci*Xosh6*6qLamx8a4nHBsp0dI!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=OQMuATkDLgEDIAU!&tl=1&su=092798369&tm=1555254000&sce=0-12-12&rf=2-9)  
 
 21、SideBarEnhancements插件  
-功能说明：侧栏菜单扩充功能。
+功能说明：侧栏菜单扩充功能。  
 插件地址：<https://github.com/titoBouzout/SideBarEnhancements/tree/st3>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/TVrkdk7w1d7ZmwSSlJWkTkXW9YJq73hYqeruDVrbML8!/o/dLkAAAAAAAAA&ek=1&kp=1&pt=0&bo=LwNmAy8DZgMDMBU!&tl=1&su=0158559617&tm=1555254000&sce=0-12-12&rf=2-9)  
 
@@ -267,7 +274,13 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 如果你电脑装有多个浏览器，你想换其它的作为此操作的默认浏览器，你可以按以下方法设置：  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/i*jO9L..gjJvxrDePSYyQExXSUhzFAtigOqCaSxFBXA!/o/dD4BAAAAAAAA&ek=1&kp=1&pt=0&bo=MAPhAjAD4QIDMBU!&tl=1&su=0268016641&tm=1555254000&sce=0-12-12&rf=2-9)  
 打开“View In Browser.sublime-settings”，写入以下代码：  
-{"browser": "chrome64"}  
+
+```
+{
+	"browser": "chrome64"
+}
+```
+
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ns7xoXP0sYn7fe6nAmpK7KyY4wg8XJ3Rd7yRcd1xmyI!/o/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=cQK9AHECvQADEDU!&tl=1&su=0169991361&tm=1555254000&sce=0-12-12&rf=2-9)  
 这样你就把它默认设置为“Chrome”浏览器了，当然你还可以改成“Firefox”、“Safari”等等，前提是你的电脑事先已安装好了这些浏览器。  
 
@@ -291,7 +304,8 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 Soda 亮色主题请添加：  
 
 ```
-{   "soda_classic_tabs": true,
+{
+   "soda_classic_tabs": true,
     "theme": "Soda Light 3.sublime-theme",
 }
 ```
@@ -300,7 +314,8 @@ Soda 亮色主题请添加：
 Soda 暗色主题请添加：  
 
 ```
-{   "soda_classic_tabs": true,
+{
+   "soda_classic_tabs": true,
     "theme": "Soda Dark 3.sublime-theme",
 }
 ```
@@ -319,13 +334,11 @@ Soda 暗色主题请添加：
 功能说明：最受欢迎的 Sublime Text 主题之一。  
 插件地址：<https://github.com/thinkpixellab/flatland>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/HlUYwTFKy5pQ5AUG4bbJnfZ*hDyLQ9WXF9bE8Lhp1cM!/o/dEcBAAAAAAAA&ek=1&kp=1&pt=0&bo=PgNvAj4DbwIDMBU!&tl=1&su=0140303697&tm=1555254000&sce=0-12-12&rf=2-9)  
-<https://github.com/thinkpixellab/flatland>  
 
 27、Theme-Nexus插件  
 功能说明：最受欢迎的 Sublime Text 主题之一。  
 插件地址：<https://github.com/EleazarCrusader/nexus-theme>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/.jT2VDoqAfh221Or8e0qz8*YXoEhai6CSdu4nR1oGPQ!/o/dEYBAAAAAAAA&ek=1&kp=1&pt=0&bo=PQN4Aj0DeAIDMBU!&tl=1&su=013648497&tm=1555254000&sce=0-12-12&rf=2-9)  
-<https://github.com/EleazarCrusader/nexus-theme>  
 
 28、Agila Theme插件  
 功能说明：最受欢迎的 Sublime Text 主题之一。  
@@ -359,7 +372,8 @@ Alt+Shift+9 Rows:3    横向三栏分屏
 Alt+Shift+5 Grid      四格式分屏  
 
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/oOOt8EiDJxBH69sz6AhnSNFdZulRqnwWKjoSGvYiqjc!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=QANxAkADcQIDMBU!&tl=1&su=0200363153&tm=1555254000&sce=0-12-12&rf=2-9)  
-2、创建新窗快捷键Ctrl+Shift+N 创建一个新窗口。  
+2、创建新窗口  
+快捷键Ctrl+Shift+N 创建一个新窗口。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/bwuUaSsp95R.u3dKhHElo68g*YZgo.wMli.drKx77sE!/o/dDcBAAAAAAAA&ek=1&kp=1&pt=0&bo=AwOxAgMDsQIDIAU!&tl=1&su=0136318753&tm=1555254000&sce=0-12-12&rf=2-9)  
 
 ### 八、Sublime Text 快捷键列表  
