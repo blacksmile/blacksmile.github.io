@@ -24,7 +24,7 @@ tags:
 4、如果你不是把“Sublime Text 3”安装在默认路径，比如你把它安装在D盘，请你添加环境变量。  
 
 5、注册  
-注册码：
+注册码：  
 <http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/6aenHT7YIalZlh4VmsTsugNT.VNnCPAhgIcnsxvKi5I!/o/dMEAAAAAAAAA&ek=1&kp=1&pt=0&bo=.gM2A*oDNgMDMBU!&tl=1&su=0192068753&tm=1555254000&sce=0-12-12&rf=2-9)  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/hPb1DzoD6QPYEvsAUPh6KC3H7QU18rfAWrfY8crmipg!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=RAJsAUQCbAEDIAU!&tl=1&su=085489601&tm=1555254000&sce=0-12-12&rf=2-9)  
@@ -37,10 +37,9 @@ tags:
 如下图添加所需代码，根据自己的喜好进行设置。设置字体用"font_face":"字体名称"，设置字体大小用"font_size":"字体大小"，注意它们之间需要用逗号隔开。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/1cf0mXYBCmaCulogC.sripRgnVIoXqAEx91oJLp3Cpg!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=eANIAXgDSAEDIAU!&tl=1&su=0161513601&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-### 四、安装插件插件官方网站(需要翻墙)：  
-<https://packagecontrol.io/>  
+### 四、安装插件  
+插件官方网站(需要翻墙)：<https://packagecontrol.io/>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/EpCInKo4KL7blly5pd7Ph1p80aLgOM*tnJ4maYMZQj4!/o/dLgAAAAAAAAA&ek=1&kp=1&pt=0&bo=nAM6ApwDOgIDMBU!&tl=1&su=061531137&tm=1555254000&sce=0-12-12&rf=2-9)  
-<https://packagecontrol.io/>  
 当我们在搜索框中输入插件的关键字，相关的插件就会在下面实时显示出来，我们就可以选择自己想要的插件进行了解。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/3t9fJ4ZwdBkIAOQ2rL3Rg.6HUOy.Os1E8hbIdyyGfuw!/o/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=tgMAArYDAAIDIAU!&tl=1&su=02174673&tm=1555254000&sce=0-12-12&rf=2-9)  
 
@@ -77,7 +76,8 @@ b 安装方法一：
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/lVJn5z.OrV7SwEmYX6vmIzwsPME5DYYk.UtH95WnF4M!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=JwJOACcCTgADEDU!&tl=1&su=0248365137&tm=1555254000&sce=0-12-12&rf=2-9)  
 
 c 安装方法二：  
-你还可以下载完整的插件包后解压，放入 C:\Users\你的用户名\AppData\Roaming\Sublime Text 3\Packages 目录下，以达到安装插件的目的。下载地址：<https://github.com/seanliang/ConvertToUTF8>。  　　
+你还可以下载完整的插件包后解压，放入 C:\Users\你的用户名\AppData\Roaming\Sublime Text 3\Packages 目录下，以达到安装插件的目的。  
+下载地址：<https://github.com/seanliang/ConvertToUTF8>。  
 如何找到 Packages 目录？一个快捷的方法是：双击打开你的 “Sublime Text 3”，点菜单 “Preferences--->Browse Packages...”。  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/HiVfPy1gG8tT5Zs*5OAgWPG.UWrQWcKkNLi0HFjuAhE!/o/dDQBAAAAAAAA&ek=1&kp=1&pt=0&bo=nQO8AZ0DvAEDMBU!&tl=1&su=0198260049&tm=1555254000&sce=0-12-12&rf=2-9)  
 它会直接打开插件包存放的目录 “Packages”。然后你就可以把下载后解压好的插件包复制到这个 Packages 目录下。  
@@ -92,36 +92,39 @@ c 安装方法二：
 6、WordPress  
 集成一些WordPress的函数，经常要写WP模版和插件的人特别有用！  
 
-7、Git 代码版本管理  
+7、Git  
+代码版本管理  
 
-8、BracketHighlighter  
-插件功能说明：高亮显示匹配的括号、引号和标签。  
+8、BracketHighlighter插件  
+功能说明：高亮显示匹配的括号、引号和标签。  
 插件地址：<https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/k6h6iyYjk7XcNpF1PDXG58CBkokHb9Nv2PL54a17.UE!/o/dFIBAAAAAAAA&ek=1&kp=1&pt=0&bo=cAM.AXADPgEDIAU!&tl=1&su=0122831905&tm=1555254000&sce=0-12-12&rf=2-9)  
 ![](https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3)  
 
-9、LESS  
-插件功能说明：LESS语法高亮显示。  
+9、LESS插件  
+功能说明：LESS语法高亮显示。  
 插件地址：<https://github.com/danro/LESS-sublime>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/4QAXpXXlV8DXZpRqQhdfxAUw6cg6Mxxlf8EJjJQ9mzE!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=1AK.AdQCvgEDIAU!&tl=1&su=0238777329&tm=1555254000&sce=0-12-12&rf=2-9)  
 <https://github.com/danro/LESS-sublime>  
 
-10、sublime-less2css  
-插件功能说明：将less文件编译成css文件。  
+10、sublime-less2css插件  
+功能说明：将less文件编译成css文件。  
 插件地址：<https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3>  
 辅助工具：  
 安装后从 <https://github.com/duncansmart/less.js-windows>  
 下载 less.js-windows，然后配置 less.js-windows 的环境变量。  
 
-11、Emmet  
-插件功能说明：Emmet的前身是大名鼎鼎的Zen codin。  
+11、Emmet插件  
+功能说明：Emmet的前身是大名鼎鼎的Zen codin。  
 前端开发必备，HTML、CSS代码快速编写神器。  
 使用方法：默认快捷键 Tab  
 插件地址：<https://github.com/sergeche/emmet-sublime>  
-辅助工具：PyV8 下载地址：[ https://github.com/emmetio/pyv8-binaries](https://github.com/emmetio/pyv8-binaries)注意：Emmet 插件需要 PyV8 插件的支持，所以在安装 Emmet 时，会自动安装 PyV8 插件，如果安装后 Emmet 不能正常保用，很有可能是因为 PyV8 没有安装完全，Sublime Text 2 和 3 容易出现这个问题。你可以删除它，然后手动下载，采用方法二安装 PyV8 插件。  
+辅助工具：PyV8  
+下载地址：<https://github.com/emmetio/pyv8-binaries>  
+注意：Emmet 插件需要 PyV8 插件的支持，所以在安装 Emmet 时，会自动安装 PyV8 插件，如果安装后 Emmet 不能正常保用，很有可能是因为 PyV8 没有安装完全，Sublime Text 2 和 3 容易出现这个问题。你可以删除它，然后手动下载，采用方法二安装 PyV8 插件。  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/A9Tn3ZoDGt9rqqU1w4cJgkqS01kRvFtf1QEg.uKHj6U!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=vgIwAb4CMAEDEDU!&tl=1&su=0209893601&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-使用方法示例：书写代码 ul#nav>li.item$\*8>a{Item $}  
+使用方法示例：书写代码 `ul#nav>li.item$\*8>a{Item $}`  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/om07G9j98w4Xeac2hk*8TktJn0J9xOUszqmgKGLnFuA!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=WAMLAlgDCwIDMBU!&tl=1&su=049324449&tm=1555254000&sce=0-12-12&rf=2-9)  
 然后把光标定在这行代码的最后面，按 Tab 键，就会自动生成：  
 
@@ -141,15 +144,15 @@ c 安装方法二：
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/0SyuGQ.oV8alphZaWuTVdVwBRxk36iM8*QXKYu.qK18!/o/dFQBAAAAAAAA&ek=1&kp=1&pt=0&bo=ZAMCA2QDAgMDMBU!&tl=1&su=053403617&tm=1555254000&sce=0-12-12&rf=2-9)  
  更多更详细的使用方法，请查阅 Emmet 官网：<http://docs.emmet.io/>  
 
-12、JsFormat  
-插件功能说明：JavaScript代码格式化。  
+12、JsFormat插件  
+功能说明：JavaScript代码格式化。  
 使用方法：在打开的JavaScript文件里点右键，选择JsFormat。  
 插件地址：<https://github.com/jdc0589/jsformat>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/.eRYL6W8qvdd1KoD8VZ0PKFsqyz9GqIgf6JNE8lA1yQ!/o/dMMAAAAAAAAA&ek=1&kp=1&pt=0&bo=qAOFAqgDhQIDQGU!&tl=1&su=0254502129&tm=1555254000&sce=0-12-12&rf=2-9)  
 <https://github.com/jdc0589/jsformat>  
 
-13、ColorHighlighter  
-插件功能说明：显示所选颜色值的颜色，并集成了ColorPicker  
+13、ColorHighlighter插件  
+功能说明：显示所选颜色值的颜色，并集成了ColorPicker  
 插件地址：h[ttps://github.com/Monnoroch/ColorHighlighter  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/bjFOtp3bRGQ0dBIUy8zogE29IFjqYsIhsx7DNpRUh2A!/o/dMAAAAAAAAAA&ek=1&kp=1&pt=0&bo=sAJ5AbACeQEDIAU!&tl=1&su=087350529&tm=1555254000&sce=0-12-12&rf=2-9)  
 ](https://github.com/Monnoroch/ColorHighlighter)  
@@ -160,8 +163,8 @@ c 安装方法二：
 看看效果，颜色值和显示颜色都相应做了改变。  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ySQ.rDfM5Mr7J*eBU69bVJsXcb81zlYi123YRSJmFn0!/o/dFQBAAAAAAAA&ek=1&kp=1&pt=0&bo=OQJpATkCaQEDIAU!&tl=1&su=0112627185&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-14、Compact Expand CSS Command  
-插件功能说明：使CSS属性展开及收缩，格式化CSS代码。  
+14、Compact Expand CSS Command插件  
+功能说明：使CSS属性展开及收缩，格式化CSS代码。  
 使用方法：按 Ctrl+Alt+[ 收缩CSS代码为一行显示，按 Ctrl+Alt+] 展开CSS代码为多行显示。  
 插件地址：<https://gist.github.com/vitaLee/2863474> 或者：<https://github.com/TooBug/CompactExpandCss>  
 快捷键 Ctrl+Alt+[  
@@ -171,8 +174,8 @@ c 安装方法二：
 展开CSS代码为多行显示效果：  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/vStZFlSFir0PIqbym8i6iT7dvxUJIq1Zu84tzZmg5Dg!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=7wIuAu8CLgIDIAU!&tl=1&su=0169706753&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-15、SublimeTmpl  
-插件功能说明：快速生成文件模板。  
+15、SublimeTmpl插件  
+功能说明：快速生成文件模板。  
 使用方法：SublimeTmpl默认的快捷键如下，如果快捷键设置冲突可能无效。  
 
 Ctrl+Alt+h           新建 html 文件  
@@ -193,14 +196,14 @@ Ctrl+Alt+Shift+p     新建 python
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/QCJk0nY2X332xeY1qIMWVNy9mE5mNZ.YnJLn10WkOQE!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=xQPtAcUD7QEDIAU!&tl=1&su=0218373937&tm=1555254000&sce=0-12-12&rf=2-9)  
 新增语言：你还可以增加模板文件夹中没有的文件模板，并做相应的设置来使用这一功能。具体可以参考它的中文文档：<http://www.fantxi.com/blog/archives/sublime-template-engine-sublimetmpl/>  
 
-16、Alignment  
-插件功能说明：使代码格式的自动对齐。  
+16、Alignment插件  
+功能说明：使代码格式的自动对齐。  
 使用方法：快捷键Ctrl+Alt+A，可能与QQ截图冲突，二者中的一个要重置快捷键。  
 插件地址：<https://github.com/kevinsperrine/sublime_alignment>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/j2zZSAC91RIQYHI*gnmXRrhSC1e7.sVrvrE*PwF21ms!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=9QGrAPUBqwADEDU!&tl=1&su=019761873&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-17、AutoFileName  
-插件功能说明：自动补全文件(目录)名。  
+17、AutoFileName插件  
+功能说明：自动补全文件(目录)名。  
 插件地址：<https://github.com/BoundInCode/AutoFileName>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/iC2.Uxo5oItr6tNDnQeLnaQ.cfTmeLnx6alSyE82*8c!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=0gKsANICrAADEDU!&tl=1&su=026038881&tm=1555254000&sce=0-12-12&rf=2-9)  
 <https://github.com/BoundInCode/AutoFileName>  
@@ -212,7 +215,7 @@ a 以这个档案为范本它会去抓取跟abc.html在同一层的档案列表�
 像我们这次要link的是在css资料夹内的auto.css，所以我们直接衔接打上css/，就会跑出css资料夹内的档案，整个用法以此类推  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/CMsLT9J1Qr9sQIzNt3JxEOzIEA3T5X2ehJmbEWZUYY4!/o/dDEBAAAAAAAA&ek=1&kp=1&pt=0&bo=7wL8AO8C*AADEDU!&tl=1&su=0179707601&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-b 像是<img src=””>的部分也是一样的方式，没什么困难了，弄懂一下路径就好了。  
+b 像是<img src="">的部分也是一样的方式，没什么困难了，弄懂一下路径就好了。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/gSFzj4uJBseQiXTAufbNX8LWx9L2uS0IFH8JgD3yAFU!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=7gIfAe4CHwEDEDU!&tl=1&su=0204585345&tm=1555254000&sce=0-12-12&rf=2-9)  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/F8suOm0CRDnrMU3L1.u79OCrjI42Y5nLqQ8qLC6Gs9M!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=7gL7AO4C.wADEDU!&tl=1&su=0232207505&tm=1555254000&sce=0-12-12&rf=2-9)  
 
@@ -222,8 +225,8 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ZXHUAAUN9s60QEEhYpgxkrLcvxs7YW4reYdHIc0Rg2o!/o/dFMBAAAAAAAA&ek=1&kp=1&pt=0&bo=vgLTAL4C0wADEDU!&tl=1&su=020836449&tm=1555254000&sce=0-12-12&rf=2-9)  
 <https://github.com/BoundInCode/AutoFileName>  
 
-18、DocBlockr  
-插件功能说明：快速生成JavaScript (including ES6), PHP, ActionScript, Haxe, CoffeeScript, TypeScript, Java, Groovy, Objective C, C, C++ and Rust语言函数注释。  
+18、DocBlockr插件  
+功能说明：快速生成JavaScript (including ES6), PHP, ActionScript, Haxe, CoffeeScript, TypeScript, Java, Groovy, Objective C, C, C++ and Rust语言函数注释。  
 使用方法：在函数上面输入/** ,然后按 Tab 就会自动生成注释。  
 插件地址：<https://github.com/spadgos/sublime-jsdocs>  
 
@@ -232,12 +235,12 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 在函数上面输入/** ,然后按Tab 就会自动生成注释。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/mozFZvNhfRzBTZZlNG8189miSsM88BlNfX9phr1uRjY!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=QgMZAUIDGQEDIAU!&tl=1&su=0163126817&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-19、SublimeCodeIntel  
-插件功能说明：智能提示。  
+19、SublimeCodeIntel插件  
+功能说明：智能提示。  
 插件地址：<https://github.com/SublimeCodeIntel/SublimeCodeIntel>  
 
-20、HTML-CSS-JS Prettify  
-插件功能说明：HTML、CSS、JS格式化。  
+20、HTML-CSS-JS Prettify插件  
+功能说明：HTML、CSS、JS格式化。  
 插件地址：<https://github.com/victorporof/Sublime-HTMLPrettify>  
 安装方法：安裝这个套件前必须先安裝`node.js`,指定 node.exe 的执行档所在位置。进而安装HTML-CSS-JS Prettify。  
 
@@ -250,13 +253,13 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
  格式化后：  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/fqHhiRi6VyoYRFQqtci*Xosh6*6qLamx8a4nHBsp0dI!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=OQMuATkDLgEDIAU!&tl=1&su=092798369&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-21、SideBarEnhancements  
-插件功能说明：侧栏菜单扩充功能。
+21、SideBarEnhancements插件  
+功能说明：侧栏菜单扩充功能。
 插件地址：<https://github.com/titoBouzout/SideBarEnhancements/tree/st3>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/TVrkdk7w1d7ZmwSSlJWkTkXW9YJq73hYqeruDVrbML8!/o/dLkAAAAAAAAA&ek=1&kp=1&pt=0&bo=LwNmAy8DZgMDMBU!&tl=1&su=0158559617&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-22、View In Browser  
-插件功能说明：Sublime Text保存后网页自动同步更新。  
+22、View In Browser插件  
+功能说明：Sublime Text保存后网页自动同步更新。  
 插件地址：<https://github.com/adampresley/sublime-view-in-browser>  
 使用方法：在打开的文档任一处点右键，选择“View In Browser”，就会用默认的浏览器自动打开该文件。  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/IPnFunD1soj6H7pMPaa*7SF624oEhSVJGmea*cO56.s!/o/dFIBAAAAAAAA&ek=1&kp=1&pt=0&bo=cAKZAnACmQIDMBU!&tl=1&su=0117338529&tm=1555254000&sce=0-12-12&rf=2-9)  
@@ -269,8 +272,8 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/ns7xoXP0sYn7fe6nAmpK7KyY4wg8XJ3Rd7yRcd1xmyI!/o/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=cQK9AHECvQADEDU!&tl=1&su=0169991361&tm=1555254000&sce=0-12-12&rf=2-9)  
 这样你就把它默认设置为“Chrome”浏览器了，当然你还可以改成“Firefox”、“Safari”等等，前提是你的电脑事先已安装好了这些浏览器。  
 
-23、LiveReload  
-插件功能说明：调试网页实时自动更新。  
+23、LiveReload插件  
+功能说明：调试网页实时自动更新。  
 使用说明：快捷键 Ctr+Alt+V  
 插件地址：<https://github.com/dz0ny/LiveReload-sublimetext2>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/hND2kLAPaEOtobwTdjd25KBaneTmMI1DAqWUrjUKBcg!/o/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=DwPuAA8D7gADEDU!&tl=1&su=0242736561&tm=1555254000&sce=0-12-12&rf=2-9)  
@@ -282,8 +285,8 @@ c 再来看看是css档中要用url，也是用同样方式，只不过因为要
 功能说明：版本控制工具。  
 插件地址：<https://github.com/dexbol/sublime-TortoiseSVN>  
 
-25、Theme-Soda  
-插件功能说明：最受欢迎的 Sublime Text 主题之一。  
+25、Theme-Soda插件  
+功能说明：最受欢迎的 Sublime Text 主题之一。  
 插件地址：<https://github.com/buymeasoda/soda-theme>  
 安装完成后，点菜单 Preferences--->Settings - User，根据需要的主题效果，添加如下代码。  
 Soda 亮色主题请添加：  
@@ -313,23 +316,23 @@ Soda 暗色主题请添加：
 如果不添加此行代码，文件标签页形状会如下显示：  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/Mj0M7n6eYllS2NDYj0qTuqr4rSCrWyPURZXmjBzrY*M!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=cgJdAXICXQEDIAU!&tl=1&su=0211496481&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-26、Theme-Flatland  
-插件功能说明：最受欢迎的 Sublime Text 主题之一。  
+26、Theme-Flatland插件  
+功能说明：最受欢迎的 Sublime Text 主题之一。  
 插件地址：<https://github.com/thinkpixellab/flatland>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/HlUYwTFKy5pQ5AUG4bbJnfZ*hDyLQ9WXF9bE8Lhp1cM!/o/dEcBAAAAAAAA&ek=1&kp=1&pt=0&bo=PgNvAj4DbwIDMBU!&tl=1&su=0140303697&tm=1555254000&sce=0-12-12&rf=2-9)  
 <https://github.com/thinkpixellab/flatland>  
 
-27、Theme-Nexus  
-插件功能说明：最受欢迎的 Sublime Text 主题之一。  
+27、Theme-Nexus插件  
+功能说明：最受欢迎的 Sublime Text 主题之一。  
 插件地址：<https://github.com/EleazarCrusader/nexus-theme>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/.jT2VDoqAfh221Or8e0qz8*YXoEhai6CSdu4nR1oGPQ!/o/dEYBAAAAAAAA&ek=1&kp=1&pt=0&bo=PQN4Aj0DeAIDMBU!&tl=1&su=013648497&tm=1555254000&sce=0-12-12&rf=2-9)  
 <https://github.com/EleazarCrusader/nexus-theme>  
 
-28、Agila Theme  
-插件功能说明：最受欢迎的 Sublime Text 主题之一。  
+28、Agila Theme插件  
+功能说明：最受欢迎的 Sublime Text 主题之一。  
 
-29、A File Icon  
-插件功能说明：最受欢迎的 Sublime Text 主题之一。  
+29、A File Icon插件  
+功能说明：最受欢迎的 Sublime Text 主题之一。  
 
 ### 五、插件列表  
 快捷键 Ctrl+Shift+P，在对话框中输入“list”，选择“Package Control:List Packages”。  
