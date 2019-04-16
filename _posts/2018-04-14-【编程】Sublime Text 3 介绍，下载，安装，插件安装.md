@@ -25,7 +25,7 @@ tags:
 
 5、注册  
 注册码：
-![](http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/)  
+<http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/>  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/6aenHT7YIalZlh4VmsTsugNT.VNnCPAhgIcnsxvKi5I!/o/dMEAAAAAAAAA&ek=1&kp=1&pt=0&bo=.gM2A*oDNgMDMBU!&tl=1&su=0192068753&tm=1555254000&sce=0-12-12&rf=2-9)  
 ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/hPb1DzoD6QPYEvsAUPh6KC3H7QU18rfAWrfY8crmipg!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=RAJsAUQCbAEDIAU!&tl=1&su=085489601&tm=1555254000&sce=0-12-12&rf=2-9)  
 ![](http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/)  
