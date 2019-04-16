@@ -423,7 +423,7 @@ Alt+Shift+5 Grid      四格式分屏
       Ctrl + W               关闭当前标签，当窗口内没有标签时会关闭该窗口  
       Ctrl + Shift + T       恢复刚刚关闭的标签  
 7、屏幕  
-      F11                    切换至普通全屏  
+      F11			切换至普通全屏  
       Shift + F11            切换至无干扰全屏  
       Alt+Shift+1            切换至独屏  
       Alt+Shift+2            切换至纵向二栏分屏  
