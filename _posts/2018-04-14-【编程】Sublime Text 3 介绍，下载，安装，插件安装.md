@@ -124,7 +124,7 @@ c 安装方法二：
 注意：Emmet 插件需要 PyV8 插件的支持，所以在安装 Emmet 时，会自动安装 PyV8 插件，如果安装后 Emmet 不能正常保用，很有可能是因为 PyV8 没有安装完全，Sublime Text 2 和 3 容易出现这个问题。你可以删除它，然后手动下载，采用方法二安装 PyV8 插件。  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/A9Tn3ZoDGt9rqqU1w4cJgkqS01kRvFtf1QEg.uKHj6U!/o/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=vgIwAb4CMAEDEDU!&tl=1&su=0209893601&tm=1555254000&sce=0-12-12&rf=2-9)  
 
-使用方法示例：书写代码 `ul#nav>li.item$\*8>a{Item $}`  
+使用方法示例：书写代码 `ul#nav>li.item$*8>a{Item $}`  
  ![](http://r.photo.store.qq.com/psb?/57f6398e-db93-428d-8871-6d2527ad188f/om07G9j98w4Xeac2hk*8TktJn0J9xOUszqmgKGLnFuA!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=WAMLAlgDCwIDMBU!&tl=1&su=049324449&tm=1555254000&sce=0-12-12&rf=2-9)  
 然后把光标定在这行代码的最后面，按 Tab 键，就会自动生成：  
 
